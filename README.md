@@ -24,14 +24,5 @@ A simple Spotify clone built using only HTML and CSS. This project aims to repli
 
 3. Open `index.html` in your browser.
 
-## Folder Structure
-
-spotify-clone/
-│-- index.html
-│-- style.css
-│-- assets/
-│   ├── images
-│-- README.md
-
 ### Author
 Bhumi Bansal - https://github.com/bhumibansal06
